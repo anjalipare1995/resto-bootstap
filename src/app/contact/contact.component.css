@@ -1,0 +1,12 @@
+.profile
+{
+    max-width: 200px;
+    max-height: 150px;
+    border: 2px solid thistle;
+    border-width: 50%;
+    margin-top: 20px;
+
+}
+.card{
+border: 2px solid tomato;
+}

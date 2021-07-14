@@ -1,0 +1,19 @@
+.color1
+{
+    background-color: grey;
+}
+
+
+.container
+{
+    font-size: xx-large;
+    padding: 20px;
+    text-align: center;
+    color:black;
+}
+.card
+{
+  padding: 2px;
+  block-size: auto;
+  
+}

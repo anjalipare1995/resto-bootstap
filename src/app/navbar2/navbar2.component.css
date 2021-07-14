@@ -1,0 +1,15 @@
+.navbar
+{
+    padding: 20px;
+    background-color: blueviolet;
+}
+.nav-link
+{
+  font-size: large;
+  color: white;
+}
+
+a:hover {
+  background-color: black ;
+  
+}
